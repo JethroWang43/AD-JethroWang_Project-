@@ -106,7 +106,7 @@ This project is a plain but dynamic web application based on PHP that reflects t
 10. File Structure to follow below.
 
 ```
-AD-JETHROWANG_PROJECT--1/
+AD-JETHROWANG_PROJECT-/
 ├── assets/
 │ ├── css/
 │ │ └── style.css
