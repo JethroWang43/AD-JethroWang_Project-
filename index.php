@@ -93,7 +93,7 @@
         
 
         ?>
-        <a href="page2.php" class="btn">Go to the 2nd page</a>
+        <a href="index.php" class="btn">Go to the 2nd page</a>
     </div>
 </body>
 </html>
